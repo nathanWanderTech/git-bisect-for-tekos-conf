@@ -11,6 +11,9 @@ const calcAdd = () => {
   return number1 * 1 - number2 * 1; // Have to *1 to convert string to number
 };
 
+/**
+ * 
+ */
 const showResult = () => {
   const resultEle = document.getElementById('result');
   resultEle.innerHTML = `${calcAdd()}`;
