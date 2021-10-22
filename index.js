@@ -12,7 +12,7 @@ const calcAdd = () => {
 };
 
 /**
- * 
+ *
  */
 const showResult = () => {
   const resultEle = document.getElementById('result');
