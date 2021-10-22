@@ -5,7 +5,7 @@ const calcAdd = () => {
   const number1 = document.getElementById('number1').value;
   const number2 = document.getElementById('number2').value;
 
-  return number1 * 1 + number2 * 1;
+  return number1 * 1 + number2 * 1; // Have to *1 to convert string to number
 };
 
 const showResult = () => {
