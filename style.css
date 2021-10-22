@@ -10,3 +10,9 @@ footer {
 h2 {
   text-transform: capitalize;
 }
+
+h2,
+h3,
+h4 {
+  text-align: center;
+}
